@@ -437,6 +437,12 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
+		},
+		{
+			"name"/; "SimpleTpa",
+			"desc": "teleports to players with command",
+			"jarname: "SimpleTpa-3.9.jar"
+			"configname": SimpleTpa"
 		}
 	]
 }
