@@ -442,7 +442,7 @@
 			"name": "SimpleTpa",
 			"desc": "teleports to players with command",
 			"jarName": "SimpleTpa-3.9.jar",
-			"configName": SimpleTpa"
+			"configName": "SimpleTpa"
 		}
 	]
 }
