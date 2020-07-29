@@ -439,10 +439,10 @@
 			"configName": "ChatColor+"
 		},
 		{
-			"name"/; "SimpleTpa",
+			"name": "SimpleTpa",
 			"desc": "teleports to players with command",
-			"jarname: "SimpleTpa-3.9.jar"
-			"configname": SimpleTpa"
+			"jarName": "SimpleTpa-3.9.jar",
+			"configName": SimpleTpa"
 		}
 	]
 }
